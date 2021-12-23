@@ -1,0 +1,461 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+        "generated": 1627094880000,
+        "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson",
+        "title": "USGS All Earthquakes, Past Hour",
+        "status": 200,
+        "api": "1.10.3",
+        "count": 11
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.2,
+                "place": "31 km SSE of Mina, Nevada",
+                "time": 1627094646382,
+                "updated": 1627094827400,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00815955",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nn00815955.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 22,
+                "net": "nn",
+                "code": "00815955",
+                "ids": ",nn00815955,",
+                "sources": ",nn,",
+                "types": ",origin,phase-data,",
+                "nst": 10,
+                "dmin": 0.033,
+                "rms": 0.0915,
+                "gap": 87.12,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.2 - 31 km SSE of Mina, Nevada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -117.912,
+                    38.1475,
+                    6.2
+                ]
+            },
+            "id": "nn00815955"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 0.9,
+                "place": "35 km SSW of South Van Horn, Alaska",
+                "time": 1627094596544,
+                "updated": 1627094785125,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0219f2m9ie",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0219f2m9ie.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 12,
+                "net": "ak",
+                "code": "0219f2m9ie",
+                "ids": ",ak0219f2m9ie,",
+                "sources": ",ak,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.75,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 0.9 - 35 km SSW of South Van Horn, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -148.0761,
+                    64.5194,
+                    18.6
+                ]
+            },
+            "id": "ak0219f2m9ie"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.41,
+                "place": "3 km SSW of Quinton, Oklahoma",
+                "time": 1627094408212,
+                "updated": 1627094628195,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ok2021oixx",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ok2021oixx.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 89,
+                "net": "ok",
+                "code": "2021oixx",
+                "ids": ",ok2021oixx,",
+                "sources": ",ok,",
+                "types": ",origin,phase-data,",
+                "nst": 31,
+                "dmin": 0.1270561516,
+                "rms": 0.6664048196,
+                "gap": 137.7004356,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 2.4 - 3 km SSW of Quinton, Oklahoma"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -95.38424683,
+                    35.09556961,
+                    0.3474627137
+                ]
+            },
+            "id": "ok2021oixx"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.3900001,
+                "place": "5 km S of P\u0101hala, Hawaii",
+                "time": 1627094220080,
+                "updated": 1627094405840,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv72601247",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/hv72601247.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 88,
+                "net": "hv",
+                "code": "72601247",
+                "ids": ",hv72601247,",
+                "sources": ",hv,",
+                "types": ",origin,phase-data,",
+                "nst": 41,
+                "dmin": null,
+                "rms": 0.140000001,
+                "gap": 128,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 2.4 - 5 km S of P\u0101hala, Hawaii"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -155.485504150391,
+                    19.158166885376,
+                    35.7700004577637
+                ]
+            },
+            "id": "hv72601247"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.1,
+                "place": "47 km NW of Mosquito Lake, Alaska",
+                "time": 1627093333027,
+                "updated": 1627093602753,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0219f2hr7f",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0219f2hr7f.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 68,
+                "net": "ak",
+                "code": "0219f2hr7f",
+                "ids": ",ak0219f2hr7f,",
+                "sources": ",ak,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": 1.18,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 2.1 - 47 km NW of Mosquito Lake, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -136.673,
+                    59.842,
+                    9.2
+                ]
+            },
+            "id": "ak0219f2hr7f"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 5,
+                "place": "3 km NW of Thrapsan\u00f3n, Greece",
+                "time": 1627092457985,
+                "updated": 1627094625911,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eyju",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000eyju.geojson",
+                "felt": 14,
+                "cdi": 4.7,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 391,
+                "net": "us",
+                "code": "6000eyju",
+                "ids": ",us6000eyju,",
+                "sources": ",us,",
+                "types": ",dyfi,origin,phase-data,",
+                "nst": null,
+                "dmin": 0.312,
+                "rms": 1.04,
+                "gap": 43,
+                "magType": "mww",
+                "type": "earthquake",
+                "title": "M 5.0 - 3 km NW of Thrapsan\u00f3n, Greece"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2601,
+                    35.2127,
+                    7.52
+                ]
+            },
+            "id": "us6000eyju"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.68,
+                "place": "32km SE of Markleeville, CA",
+                "time": 1627092412500,
+                "updated": 1627094017723,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73598526",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/nc73598526.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 43,
+                "net": "nc",
+                "code": "73598526",
+                "ids": ",nc73598526,nn00815952,",
+                "sources": ",nc,nn,",
+                "types": ",nearby-cities,origin,phase-data,",
+                "nst": 8,
+                "dmin": 0.01419,
+                "rms": 0.15,
+                "gap": 144,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 1.7 - 32km SE of Markleeville, CA"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -119.5139999,
+                    38.5028343,
+                    9.5
+                ]
+            },
+            "id": "nc73598526"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 4.7,
+                "place": "Vanuatu region",
+                "time": 1627092409276,
+                "updated": 1627093315040,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000eyjv",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us6000eyjv.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 340,
+                "net": "us",
+                "code": "6000eyjv",
+                "ids": ",us6000eyjv,",
+                "sources": ",us,",
+                "types": ",origin,phase-data,",
+                "nst": null,
+                "dmin": 4.585,
+                "rms": 0.86,
+                "gap": 51,
+                "magType": "mb",
+                "type": "earthquake",
+                "title": "M 4.7 - Vanuatu region"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    171.8513,
+                    -14.5228,
+                    613.32
+                ]
+            },
+            "id": "us6000eyjv"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 1.5,
+                "place": "112 km E of Cordova, Alaska",
+                "time": 1627092296599,
+                "updated": 1627093111673,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0219f2dzp6",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0219f2dzp6.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 35,
+                "net": "ak",
+                "code": "0219f2dzp6",
+                "ids": ",ak0219f2dzp6,",
+                "sources": ",ak,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.4,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 1.5 - 112 km E of Cordova, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -143.7218,
+                    60.491,
+                    4.5
+                ]
+            },
+            "id": "ak0219f2dzp6"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.35,
+                "place": "12 km SSE of Gu\u00e1nica, Puerto Rico",
+                "time": 1627092037730,
+                "updated": 1627093731105,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2021205000",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/pr2021205000.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "reviewed",
+                "tsunami": 0,
+                "sig": 85,
+                "net": "pr",
+                "code": "2021205000",
+                "ids": ",pr2021205000,",
+                "sources": ",pr,",
+                "types": ",origin,phase-data,",
+                "nst": 8,
+                "dmin": 0.1984,
+                "rms": 0.11,
+                "gap": 248,
+                "magType": "md",
+                "type": "earthquake",
+                "title": "M 2.4 - 12 km SSE of Gu\u00e1nica, Puerto Rico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -66.8766,
+                    17.8633,
+                    13
+                ]
+            },
+            "id": "pr2021205000"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "mag": 2.1,
+                "place": "67 km NW of Skwentna, Alaska",
+                "time": 1627091935372,
+                "updated": 1627092259494,
+                "tz": null,
+                "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0219f244m2",
+                "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak0219f244m2.geojson",
+                "felt": null,
+                "cdi": null,
+                "mmi": null,
+                "alert": null,
+                "status": "automatic",
+                "tsunami": 0,
+                "sig": 68,
+                "net": "ak",
+                "code": "0219f244m2",
+                "ids": ",ak0219f244m2,",
+                "sources": ",ak,",
+                "types": ",origin,",
+                "nst": null,
+                "dmin": null,
+                "rms": 0.51,
+                "gap": null,
+                "magType": "ml",
+                "type": "earthquake",
+                "title": "M 2.1 - 67 km NW of Skwentna, Alaska"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -152.4167,
+                    62.3598,
+                    138.9
+                ]
+            },
+            "id": "ak0219f244m2"
+        }
+    ],
+    "bbox": [
+        -155.48550415039,
+        -14.5228,
+        0.3474627137,
+        171.8513,
+        64.5194,
+        613.32
+    ]
+}
